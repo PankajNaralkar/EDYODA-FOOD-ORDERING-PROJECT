@@ -1,0 +1,1 @@
+{'admin': {'address': 'admin', 'emailid': 'admin', 'name': 'admin', 'password': 'admin', 'phoneno': 'admin', 'username': 'admin'}, 'shankar': {'address': 'shankar', 'emailid': 'shankar', 'name': 'shankar', 'password': 'shankar', 'phoneno': 'shankar', 'username': 'shankar'}}
